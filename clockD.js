@@ -15,10 +15,6 @@ function showTime() {
 }
 showTime();
 
-function startMyInterval() {
-    return myInterval();
-}
-
 function stopMyInterval() {
     clearInterval(myInterval);
 }
